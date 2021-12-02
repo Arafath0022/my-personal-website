@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    margin-top: 0;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 30px;
+    font-family:'Poppins', sans-serif ;
+}
+
+.half-widht{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 750;
+}
+
+.name{
+    color: palevioletred;
+}
+
+.half-widht img{
+    width: 100%;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
